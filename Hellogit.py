@@ -1,3 +1,1 @@
-print("hello git!")
-
-print("hello, owner!")
+print("hello world!")
